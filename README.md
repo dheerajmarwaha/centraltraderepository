@@ -9,6 +9,8 @@ Dheeraj Marwaha
 
 Purpose
 ==========
+To design the central trade repository and demonstrate the logging framework.
+
 The repository consists of 
 * Source code for logging framework as well as 
 * Solution Logical Architecture  - Central Trade Repository.docx file
