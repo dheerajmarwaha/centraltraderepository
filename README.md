@@ -1,8 +1,7 @@
 # Central Trade Repository
 
-Project source can be downloaded from 
-https://github.com/dheerajmarwaha/centraltraderepository.git
-============
+Project source can be downloaded from https://github.com/dheerajmarwaha/centraltraderepository.git
+
 
 Author
 =======
