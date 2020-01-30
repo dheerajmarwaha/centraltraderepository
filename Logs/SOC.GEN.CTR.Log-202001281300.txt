@@ -1,0 +1,6 @@
+01/28/2020 13:02:21 +05:30 [Error] Error - This is test message from LoggerCases Test class- function: FlatFileLogging_Test_ErrorLog 
+ 01/28/2020 13:02:21 +05:30 [Error] Error - "This is test message from LoggerCases Test class"- function: "FlatFileLogging_Test_ErrorLog_CustomProperty"  
+ 01/28/2020 13:02:21 +05:30 [Fatal] Fatal - This is test message from LoggerCases Test class- function: FlatFileLogging_Test_FatalLog 
+ 01/28/2020 13:02:21 +05:30 [Information] Informaation - This is test message from LoggerCases Test class- function: FlatFileLogging_Test_InformationLog 
+ 01/28/2020 13:02:21 +05:30 [Warning] Warning - This is test message from LoggerCases Test class- function: FlatFileLogging_Test_WarningLog 
+ 

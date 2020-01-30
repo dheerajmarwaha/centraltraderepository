@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>..\Artifacts\Debug\Logging</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog" Version="2.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SOC.GEN.CTR.Common\SOC.GEN.CTR.Common.csproj" />
+    <ProjectReference Include="..\SOC.GEN.CTR.Logging.Logger.Contracts\SOC.GEN.CTR.Logging.Logger.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
