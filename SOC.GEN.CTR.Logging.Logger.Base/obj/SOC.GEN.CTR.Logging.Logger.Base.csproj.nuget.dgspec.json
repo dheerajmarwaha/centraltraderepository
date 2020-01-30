@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.Logger.Base\\SOC.GEN.CTR.Logging.Logger.Base.csproj": {}
+  },
+  "projects": {
+    "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Common\\SOC.GEN.CTR.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Common\\SOC.GEN.CTR.Common.csproj",
+        "projectName": "SOC.GEN.CTR.Common",
+        "projectPath": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Common\\SOC.GEN.CTR.Common.csproj",
+        "packagesPath": "C:\\Users\\dheer\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dheer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.Logger.Base\\SOC.GEN.CTR.Logging.Logger.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.Logger.Base\\SOC.GEN.CTR.Logging.Logger.Base.csproj",
+        "projectName": "SOC.GEN.CTR.Logging.Logger.Base",
+        "projectPath": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.Logger.Base\\SOC.GEN.CTR.Logging.Logger.Base.csproj",
+        "packagesPath": "C:\\Users\\dheer\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.Logger.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dheer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Common\\SOC.GEN.CTR.Common.csproj": {
+                "projectPath": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Common\\SOC.GEN.CTR.Common.csproj"
+              },
+              "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.Logger.Contracts\\SOC.GEN.CTR.Logging.Logger.Contracts.csproj": {
+                "projectPath": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.Logger.Contracts\\SOC.GEN.CTR.Logging.Logger.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.Logger.Contracts\\SOC.GEN.CTR.Logging.Logger.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.Logger.Contracts\\SOC.GEN.CTR.Logging.Logger.Contracts.csproj",
+        "projectName": "SOC.GEN.CTR.Logging.Logger.Contracts",
+        "projectPath": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.Logger.Contracts\\SOC.GEN.CTR.Logging.Logger.Contracts.csproj",
+        "packagesPath": "C:\\Users\\dheer\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.Logger.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dheer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

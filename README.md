@@ -10,5 +10,5 @@ Dheeraj Marwaha
 Purpose
 ==========
 The repository consists of 
-* source code for logging framework as well as Solution Logical architecture file 
-* Solution Logical Architecture  - Central Trade Repository.docx
+* Source code for logging framework as well as 
+* Solution Logical Architecture  - Central Trade Repository.docx file

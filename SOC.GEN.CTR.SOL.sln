@@ -30,6 +30,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		C:\Users\dheer\OneDrive\Solution Logical Architecture  - Central Trade Repository.docx = C:\Users\dheer\OneDrive\Solution Logical Architecture  - Central Trade Repository.docx
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{1FAF7CCE-1575-4C5B-9FF4-DD843D27BB73}"
+	ProjectSection(SolutionItems) = preProject
+		Images\SolutionFolderStructure.PNG = Images\SolutionFolderStructure.PNG
+		Images\TestExplorer.png = Images\TestExplorer.png
+		Images\TestResult.png = Images\TestResult.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +82,7 @@ Global
 		{E93E0C52-5525-4344-AA3A-1B396228D313} = {C569732C-DD5B-4D28-8537-DFFBD0910C5E}
 		{D3089CF1-2FB3-46AB-A75F-CAB3FD37B41A} = {B7447432-8377-4909-9D03-322393BDA5C2}
 		{310593D8-EE30-4DD7-95B5-BA0786ADE3C5} = {C569732C-DD5B-4D28-8537-DFFBD0910C5E}
+		{1FAF7CCE-1575-4C5B-9FF4-DD843D27BB73} = {C1DACA95-09B6-4D44-9C89-4AE37073B13F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B85406C6-649B-4679-9970-67DC586DFC1F}
