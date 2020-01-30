@@ -1,9 +1,0 @@
-D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Logging.Logger.FlatFileLogger\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.FlatFileLogger.csprojAssemblyReference.cache
-D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Logging.Logger.FlatFileLogger\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.FlatFileLogger.AssemblyInfoInputs.cache
-D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Logging.Logger.FlatFileLogger\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.FlatFileLogger.AssemblyInfo.cs
-D:\Practice\SOC.GEN.CTR\Artifacts\Debug\Logging\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.FlatFileLogger.deps.json
-D:\Practice\SOC.GEN.CTR\Artifacts\Debug\Logging\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.FlatFileLogger.dll
-D:\Practice\SOC.GEN.CTR\Artifacts\Debug\Logging\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.FlatFileLogger.pdb
-D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Logging.Logger.FlatFileLogger\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.FlatFileLogger.csproj.CopyComplete
-D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Logging.Logger.FlatFileLogger\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.FlatFileLogger.dll
-D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Logging.Logger.FlatFileLogger\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.FlatFileLogger.pdb
