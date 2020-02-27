@@ -1,0 +1,6 @@
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DB\bin\Debug\SOC.GEN.DB.dacpac
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DB\bin\Debug\SOC.GEN.DB.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DB\bin\Debug\SOC.GEN.DB.pdb
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DB\obj\Debug\SOC.GEN.DB.sqlprojAssemblyReference.cache
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DB\obj\Debug\SOC.GEN.DB.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DB\obj\Debug\SOC.GEN.DB.pdb

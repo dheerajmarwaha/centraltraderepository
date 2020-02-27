@@ -34,7 +34,7 @@ namespace SOC.GEN.DealService.Controllers
         }
 
         // GET: api/Deal/5
-        [HttpGet("{id}", Name = "Get")]
+        [HttpGet("{id}")]
         public IActionResult Get(int id)
         {
             var deal = dealRepository.GetDealById(id);
@@ -43,8 +43,9 @@ namespace SOC.GEN.DealService.Controllers
         }
 
         // GET: api/Deal/5
-        [HttpGet("{date}", Name = "Get")]
-        public IActionResult Get(DateTime date)
+        [HttpGet("{date}")]
+        [Route("[action]/date")]
+        public IActionResult GetDealByDate(DateTime date)
         {
             var deals = dealRepository.GetDealByLastRefreshDate(date);
             return new OkObjectResult(deals);
@@ -52,7 +53,7 @@ namespace SOC.GEN.DealService.Controllers
         }
 
         // GET: api/Deal/5
-        [HttpGet("{id}", Name = "Get")]
+        [HttpGet("{id}")]
         [Route("[action]/country")]
         public IActionResult GetDealsByCountryId(int id)
         {
