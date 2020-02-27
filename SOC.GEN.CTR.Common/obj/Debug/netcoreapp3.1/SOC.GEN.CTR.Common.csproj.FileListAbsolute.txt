@@ -1,0 +1,8 @@
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Common\bin\Debug\netcoreapp3.1\SOC.GEN.CTR.Common.deps.json
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Common\bin\Debug\netcoreapp3.1\SOC.GEN.CTR.Common.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Common\bin\Debug\netcoreapp3.1\SOC.GEN.CTR.Common.pdb
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Common\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Common.csprojAssemblyReference.cache
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Common\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Common.AssemblyInfoInputs.cache
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Common\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Common.AssemblyInfo.cs
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Common\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Common.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Common\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Common.pdb

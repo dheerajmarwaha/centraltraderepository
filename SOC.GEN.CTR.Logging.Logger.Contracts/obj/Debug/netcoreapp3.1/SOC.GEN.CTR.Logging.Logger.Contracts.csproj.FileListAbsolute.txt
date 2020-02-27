@@ -1,0 +1,8 @@
+D:\Practice\SOC.GEN.CTR\Artifacts\Debug\Logging\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.Contracts.deps.json
+D:\Practice\SOC.GEN.CTR\Artifacts\Debug\Logging\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.Contracts.dll
+D:\Practice\SOC.GEN.CTR\Artifacts\Debug\Logging\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.Contracts.pdb
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Logging.Logger.Contracts\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.Contracts.csprojAssemblyReference.cache
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Logging.Logger.Contracts\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.Contracts.AssemblyInfoInputs.cache
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Logging.Logger.Contracts\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.Contracts.AssemblyInfo.cs
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Logging.Logger.Contracts\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.Contracts.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.CTR.Logging.Logger.Contracts\obj\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.Contracts.pdb

@@ -37,6 +37,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{1FAF7C
 		Images\TestResult.png = Images\TestResult.png
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{3F44C2F4-5653-4CE2-97A8-8D1DE9C9C5E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOC.GEN.DealService", "SOC.GEN.DealService\SOC.GEN.DealService.csproj", "{C86E1F33-8B1C-44AB-BF9E-A09841007879}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +71,10 @@ Global
 		{310593D8-EE30-4DD7-95B5-BA0786ADE3C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{310593D8-EE30-4DD7-95B5-BA0786ADE3C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{310593D8-EE30-4DD7-95B5-BA0786ADE3C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86E1F33-8B1C-44AB-BF9E-A09841007879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86E1F33-8B1C-44AB-BF9E-A09841007879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86E1F33-8B1C-44AB-BF9E-A09841007879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86E1F33-8B1C-44AB-BF9E-A09841007879}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +91,7 @@ Global
 		{D3089CF1-2FB3-46AB-A75F-CAB3FD37B41A} = {B7447432-8377-4909-9D03-322393BDA5C2}
 		{310593D8-EE30-4DD7-95B5-BA0786ADE3C5} = {C569732C-DD5B-4D28-8537-DFFBD0910C5E}
 		{1FAF7CCE-1575-4C5B-9FF4-DD843D27BB73} = {C1DACA95-09B6-4D44-9C89-4AE37073B13F}
+		{C86E1F33-8B1C-44AB-BF9E-A09841007879} = {3F44C2F4-5653-4CE2-97A8-8D1DE9C9C5E4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B85406C6-649B-4679-9970-67DC586DFC1F}
