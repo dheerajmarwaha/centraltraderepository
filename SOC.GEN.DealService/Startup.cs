@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using SOC.GEN.CTR.Logging.Logger.Contracts;
+using SOC.GEN.CTR.Logging.Logger.FlatFileLogger;
 using SOC.GEN.DealService.DBContexts;
 using SOC.GEN.DealService.Repository;
 
@@ -33,6 +35,7 @@ namespace SOC.GEN.DealService
                 Configuration.GetConnectionString("CentralRepositoryDB"))
             );
             services.AddTransient<IDealRepository, DealRepository>();
+            services.AddTransient<IStructuredLog, FlatFileLogger>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

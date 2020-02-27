@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System.Transactions;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SOC.GEN.CTR.Logging.Logger.Contracts;
 using SOC.GEN.DealService.Models;
 using SOC.GEN.DealService.Repository;
 
@@ -15,10 +16,14 @@ namespace SOC.GEN.DealService.Controllers
     public class DealController : ControllerBase
     {
         private readonly IDealRepository dealRepository;
+        private readonly IStructuredLog structuredLog;
 
-        public DealController(IDealRepository dealRepository)
+        public DealController(IDealRepository dealRepository, IStructuredLog structuredLog)
         {
             this.dealRepository = dealRepository;
+            this.structuredLog = structuredLog;
+
+            structuredLog.Information("DealController initialized");
         }
         // GET: api/Deal
         [HttpGet]
@@ -36,12 +41,6 @@ namespace SOC.GEN.DealService.Controllers
             return new OkObjectResult(deal);
 
         }
-
-        //// POST: api/Deal
-        //[HttpPost]
-        //public void Post([FromBody] string value)
-        //{
-        //}
 
         // PUT: api/Deal/5
         [HttpPut]
