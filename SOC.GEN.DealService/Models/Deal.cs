@@ -9,6 +9,7 @@ namespace SOC.GEN.DealService.Models
     {
         public int Id { get; set; }
         public DateTime deal_date { get; set; }
+        public int country_id { get; set; }
         public int currency_Id { get; set; }
         public decimal amount { get; set; }
         public string trader { get; set; }

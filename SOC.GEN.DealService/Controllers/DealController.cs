@@ -42,6 +42,25 @@ namespace SOC.GEN.DealService.Controllers
 
         }
 
+        // GET: api/Deal/5
+        [HttpGet("{date}", Name = "Get")]
+        public IActionResult Get(DateTime date)
+        {
+            var deals = dealRepository.GetDealByLastRefreshDate(date);
+            return new OkObjectResult(deals);
+
+        }
+
+        // GET: api/Deal/5
+        [HttpGet("{id}", Name = "Get")]
+        [Route("[action]/country")]
+        public IActionResult GetDealsByCountryId(int id)
+        {
+            var deal = dealRepository.GetDealById(id);
+            return new OkObjectResult(deal);
+
+        }
+
         // PUT: api/Deal/5
         [HttpPut]
         public IActionResult Put([FromBody] Deal deal)

@@ -29,9 +29,21 @@ namespace SOC.GEN.DealService.Repository
             return dealContext.Deals.Find(dealId);
         }
 
-        public IEnumerable<Deal> GetDeals()
+        public List<Deal> GetDealByLastRefreshDate(DateTime lastRefreshDate)
+        {
+            var deals = dealContext.Deals.Where(d => d.deal_date.Subtract(lastRefreshDate).Ticks >=0).ToList();
+            return deals;
+        }
+
+        public async Task<IEnumerable<Deal>> GetDeals()
         {
             return dealContext.Deals.ToList();
+        }
+
+        public List<Deal> GetDealsByCountryId(int id)
+        {
+            var deals = dealContext.Deals.Where(d => d.country_id == id).ToList();
+            return deals;
         }
 
         public void Save()
@@ -44,5 +56,7 @@ namespace SOC.GEN.DealService.Repository
             dealContext.Entry(deal).State = EntityState.Modified;
             Save();
         }
+
+      
     }
 }
