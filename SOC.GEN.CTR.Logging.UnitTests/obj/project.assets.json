@@ -6925,9 +6925,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.UnitTests\\SOC.GEN.CTR.Logging.UnitTests.csproj",
-      "projectName": "SOC.GEN.CTR.Logging.UnitTests",
-      "projectPath": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.UnitTests\\SOC.GEN.CTR.Logging.UnitTests.csproj",
+      "projectUniqueName": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.UnitTests\\SOC.GEN.CTR.Logging.Tests.csproj",
+      "projectName": "SOC.GEN.CTR.Logging.Tests",
+      "projectPath": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.UnitTests\\SOC.GEN.CTR.Logging.Tests.csproj",
       "packagesPath": "C:\\Users\\dheer\\.nuget\\packages\\",
       "outputPath": "D:\\Practice\\SOC.GEN.CTR\\SOC.GEN.CTR.Logging.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
