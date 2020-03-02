@@ -129,7 +129,6 @@ D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\zh-Hant\Micr
 D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\obj\Debug\netcoreapp3.1\SOC.GEN.DealService.dll
 D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\obj\Debug\netcoreapp3.1\SOC.GEN.DealService.pdb
 D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\obj\Debug\netcoreapp3.1\SOC.GEN.DealService.MvcApplicationPartsAssemblyInfo.cache
 D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
 D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
 D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -147,3 +146,16 @@ D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\SOC.GEN.CTR.
 D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.FlatFileLogger.pdb
 D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\SOC.GEN.CTR.Common.pdb
 D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\SOC.GEN.CTR.Logging.Logger.Base.pdb
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\obj\Debug\netcoreapp3.1\SOC.GEN.DealService.MvcApplicationPartsAssemblyInfo.cs
+D:\Practice\SOC.GEN.CTR\SOC.GEN.DealService\obj\Debug\netcoreapp3.1\SOC.GEN.DealService.MvcApplicationPartsAssemblyInfo.cache

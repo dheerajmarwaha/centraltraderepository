@@ -36,6 +36,12 @@ namespace SOC.GEN.DealService
             );
             services.AddTransient<IDealRepository, DealRepository>();
             services.AddTransient<IStructuredLog, FlatFileLogger>();
+
+            services.AddOpenApiDocument(settings => {
+                settings.Title = "DealService API";
+                settings.DocumentName = "v3";
+                settings.Version = "v3";
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +51,8 @@ namespace SOC.GEN.DealService
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseOpenApi();
+            app.UseSwaggerUi3();
 
             app.UseRouting();
 
